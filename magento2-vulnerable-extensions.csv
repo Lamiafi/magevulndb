@@ -9,6 +9,7 @@ Bss_MultiWishlist,1.2.0,,https://xn--gran-8qa.fi/bss-multiwishlist-xss-injection
 BlueFormBuilder_Core,,,https://anothernetsecblog.com/magento-2-extension-security/,
 Campaigner_Integration,,,Max Chadwick,
 Cardgate_Payment,2.0.31,/cardgate/payment/callback,https://github.com/cardgate/magento2/issues/54,https://github.com/cardgate/magento2/releases
+Customweb_InternetkasseCw,4.0.339,,https://www.sellxed.com/shop/en/eur/software/changelog/index/magento-s-internetkasse-zahlungs-extension.html,
 Fooman_PdfCustomiser,8.1.8,,https://twitter.com/foomanNZ/status/1118496841488748546,
 Fooman_Tcpdf,6.2.25.2,,,https://mailchi.mp/fooman/important-security-update-for-pdf-customiser-3218933
 Lof_ChatSystem,,,https://anothernetsecblog.com/magento-2-extension-security/,
@@ -18,7 +19,14 @@ Mageplaza_LayeredNavigation,2.3.6,,https://www.mageplaza.com/releases/layered-na
 Magestore_Storelocator,1.0.2,,,https://blog.magestore.com/store-locator-extension-patch/
 Magestore_Storepickup,1.2.1,,,https://blog.magestore.com/store-locator-extension-patch/
 Mirasvit_Blog,1.0.21,,,https://github.com/mirasvit/module-blog
+Mirasvit_CacheWarmer,1.3.35,,https://mirasvit.com/docs/module-cache-warmer/current/changelog#1-3-35,https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html
 Mirasvit_Giftr,1.2.23,,https://mirasvit.com/docs/module-gift-registry/current/changelog,https://mirasvit.com/magento-2-extensions/gift-registry.html
 StripeIntegration_Payments,1.8.8,,,https://marketplace.magento.com/stripe-stripe-payments.html
 VladimirPopov_WebForms,2.9.18,,https://anothernetsecblog.com/magento-2-extension-security/,
 Wuunder_Wuunderconnector,2.1.2,wuunder/index/parcelshop,https://github.com/wuunder/wuunder-webshopplugin-magento2/issues/32,https://github.com/wuunder/wuunder-webshopplugin-magento2/releases
+Wyomind_PointOfSale,7.2.3,,Kalpesh Mehta,https://www.wyomind.com/magento2/point-of-sale-magento.html#changelog
+Xtento_OrderExport,2.11.3,,https://www.xtento.com/xtcustom/changelog/show/module/Xtento_OrderExport/version/m2,https://www.xtento.com/magento-extensions/magento-order-export-module.html
+Xtento_OrderImport,2.1.4,,https://www.xtento.com/xtcustom/changelog/show/module/Xtento_OrderImport/version/m2,https://www.xtento.com/magento-extensions/magento-order-import-extension.html
+Xtento_ProductExport,2.12.7,,https://www.xtento.com/xtcustom/changelog/show/module/Xtento_ProductExport/version/m2,https://www.xtento.com/magento-extensions/magento-product-feed-export-module.html
+Xtento_StockImport,2.8.4,,https://www.xtento.com/xtcustom/changelog/show/module/Xtento_StockImport/version/m2,https://www.xtento.com/magento-extensions/magento-stock-inventory-import-module.html
+Xtento_TrackingImport,2.8.0,,https://www.xtento.com/xtcustom/changelog/show/module/Xtento_TrackingImport/version/m2,https://www.xtento.com/magento-extensions/magento-tracking-number-import-module.html
